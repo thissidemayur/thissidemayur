@@ -10,4 +10,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thissidemayur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💬 Community Contributions
+- **[Zod v4 Import Path Fix for @conform-to/zod](https://github.com/edmundhung/conform/discussions/993)**  
+  Discovered and documented a compatibility issue where the default import in `@conform-to/zod` fails with Zod v4.x due to missing exports (`ZodPipeline`, `ZodBranded`).  
+  **Solution:** Use the `/v4` entrypoint instead:  
+  ```js
+  import { parseWithZod } from '@conform-to/zod/v4';
