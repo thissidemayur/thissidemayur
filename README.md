@@ -79,7 +79,6 @@ All my blogs are on my portfolio — covering local AI, Docker, TypeScript, and 
 
 <div align="center">
 
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thissidemayur&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=thissidemayur&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
